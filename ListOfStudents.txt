@@ -1,0 +1,10 @@
+height	weight	gender	year	group	faculty	name	surname
+178	67.9	m	1998	1712	ENF	Ivan	Petrov
+169	53.46	f	1997	2745	ENF	Anna	Ivanova
+183	72.7	m	1996	3528	KTU	Sergey	Sergeev
+173	66.15	m	1995	3529	KTU	Kirill	Sidorov
+190	86.1	m	1996	2653	TMT	Andrey	Voronov
+164	51.92	f	1997	2745	ENF	Irina	Smirnova
+170	60.0	f	1995	3617	TMT	Alina	Sokolova	
+185	76.33	f	1995	3528	KTU	Vera	Ivanova
+178	65.4	m	1996	2653	TMT	Andrey	Petrov
