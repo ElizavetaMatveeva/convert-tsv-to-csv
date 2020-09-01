@@ -19,8 +19,8 @@ void TSVtoCSV(FILE* f, FILE* f1)
 
 int main()
 {
-	FILE* f=fopen("ListOfStudents.txt", "r");
-	FILE* f1=fopen("StudentsCSV.txt", "w");
+	FILE* f=fopen("test_data.txt", "r");
+	FILE* f1=fopen("data_in_csv.txt", "w");
 	TSVtoCSV(f, f1); // Применяем функцию для создания или перезаписи нового файла
 	fclose(f);
 	fclose(f1);
