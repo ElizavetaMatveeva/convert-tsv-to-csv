@@ -1,6 +1,6 @@
 /*
 ITMO University homework, 2015
-Task: convert TSV file named "ListOfStudents.txt" to CSV file 
+Task: convert TSV file named "test_data.txt" to CSV file 
 */
 
 #include <stdio.h>
